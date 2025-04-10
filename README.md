@@ -26,6 +26,8 @@ def hello:
    <mark>v = 1</mark>
 </code></pre>
 
-https://github.com/cevian/test1/blob/c75db4ab994d976c6298ac2fd212da2fcce63b28/test.py#L2
+https://github.com/cevian/test1/blob/c75db4ab994d976c6298ac2fd212da2fcce63b28/test.py#L2\
+
+https://github.com/cevian/test1/blob/6a93c5907b1b47d6675420822be5282c8556e737/test.py#L1-L3
 
 https://github.com/cevian/test1/test.py#L2
