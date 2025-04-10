@@ -10,6 +10,12 @@ def hello:
    v = 1
 ```
 
+```python
+def hello:
+👀   v = 1
+```
+
+
 ```diff
 +def hello:
    v = 1
