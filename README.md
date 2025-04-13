@@ -1,5 +1,21 @@
 # test1
 
+1. blazhble
+   edve b
+   wewe
+
+   fnrdf
+
+   > blocxk in list
+   >
+
+   reg in list
+
+   > [!NOTE]
+   > test note
+
+> [!NOTE]
+> The above query inserted the text data into the wiki table without having to do anything to create the embeddings. The vectorizer will automatically create the embeddings for the new row without any intervention from you.  The vectorizer will also automatically update the embeddings for the new row when the data changes.
 
 <script src="https://gist.github.com/cevian/a118453d929a8ee423d8a7d0ee003ee2.js">
   
